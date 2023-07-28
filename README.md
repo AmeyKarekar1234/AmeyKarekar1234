@@ -36,8 +36,6 @@ I am a Data Engineer from India <img src="https://media.tenor.com/UttC4AITYR4AAA
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/amey-karekar1234)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
